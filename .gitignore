@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+.omc/
+FlipLingo.app/
+FlipLingo.dmg
+*.xcodeproj/
+.DS_Store
